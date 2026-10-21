@@ -63,7 +63,7 @@ Steps 1-2 are priority (needed within days). Track progress in the "Status" sect
 
 ## Status
 - [x] Step 0: setup (deps installed, solver check passes)
-- [ ] Step 1
+- [x] Step 1
 - [ ] Step 2
 - [ ] Step 3
 - [ ] Step 4
